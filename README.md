@@ -1,5 +1,5 @@
 ![Renloi Pool](https://user-images.githubusercontent.com/96906027/147962651-74ae1748-2ac9-456a-bd71-f7985fb85462.png)
-# Swap
+# RenloiSwap
 Renloi's first decentralized exchange protocol
 
 
