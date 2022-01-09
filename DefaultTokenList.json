@@ -6,7 +6,7 @@
       "minor": 0,
       "patch": 0
     },
-    "logoURI": "https://swap.renloi.org/logo.png",
+    "logoURI": "https://swap.renloi.org/Renloi.png",
     "keywords": ["Renloi", "default", "list"],
     "tokens": [
       {
@@ -15,7 +15,7 @@
         "name": "Wrapped Renloi",
         "symbol": "WRenloi",
         "decimals": 18,
-        "logoURI": "https://swap.renloi.org/logo.png"
+        "logoURI": "https://swap.renloi.org/Renloi.png"
       },
       {
         "address": "0x0d64c6F1eF220350AFCab7e25A8537fb949662B3",
