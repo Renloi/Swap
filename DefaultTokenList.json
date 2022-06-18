@@ -6,7 +6,7 @@
       "minor": 0,
       "patch": 0
     },
-    "logoURI": "https://swap.renloi.org/WRenloi.png",
+    "logoURI": "https://dex.renloi.org/WRenloi.png",
     "keywords": ["Renloi", "default", "list"],
     "tokens": [
       {
@@ -15,7 +15,7 @@
         "name": "Wrapped Renloi",
         "symbol": "WRenloi",
         "decimals": 18,
-        "logoURI": "https://swap.renloi.org/WRenloi.png"
+        "logoURI": "https://dex.renloi.org/WRenloi.png"
       },
       {
         "address": "0x0d64c6F1eF220350AFCab7e25A8537fb949662B3",
@@ -23,7 +23,7 @@
         "name": "Token1",
         "symbol": "TOK1",
         "decimals": 18,
-        "logoURI": "https://swap.renloi.org/TOK1.png"
+        "logoURI": "https://dex.renloi.org/TOK1.png"
       },
       {
         "address": "0x46e54E5095D8D214AD35ac21bA39765E70E1cB35",
@@ -31,7 +31,7 @@
         "name": "Token2",
         "symbol": "TOK2",
         "decimals": 18,
-        "logoURI": "https://swap.renloi.org/TOK2.png"
+        "logoURI": "https://dex.renloi.org/TOK2.png"
       }
     ]
   }
